@@ -3709,7 +3709,7 @@ function printclasslists_return_gymnast_week_schedule ($class, $weekno, $year, $
     if ($is_GYM_BADGE) {
         if(isset($_POST['time'])) {
             if($_GET['time'] == '2pm') {
-Test
+Test123
             }
             else if($_GET['time'] = '3pm') {
 
